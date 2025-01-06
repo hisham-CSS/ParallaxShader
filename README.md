@@ -4,7 +4,7 @@ Very simple 2D Parallax Shader.
 
 ![Shader Graph](Images/shader.png)
 
-This is a 2D Unlit Shader. The material made from this is meant to be used with the parallax background script, a sprite renderer and a camera tagged as MainCamera.
+This is a 2D Lit Shader. The material made from this is meant to be used with the parallax background script, a sprite renderer and a camera tagged as MainCamera.
 
 ![Import Settings](Images/importsettings.png)
 
